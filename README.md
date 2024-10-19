@@ -116,3 +116,7 @@ REDIS_URL=your_redis_url
 OPENAI_API_KEY=your_openai_api_key
 PORT=your_application_port
 
+
+## License
+[MIT License](LICENSE)
+
