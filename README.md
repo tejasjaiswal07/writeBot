@@ -109,12 +109,13 @@ Stores writing content, analysis data such as word and sentence count, and gener
 
 This project uses environment variables stored in a `.env` file. Ensure the following variables are set:
 
-```bash
-MONGODB_URI=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret
-REDIS_URL=your_redis_url
-OPENAI_API_KEY=your_openai_api_key
-PORT=your_application_port
+    ```bash
+    MONGODB_URI=your_mongo_connection_string
+    JWT_SECRET=your_jwt_secret
+    REDIS_URL=your_redis_url
+    OPENAI_API_KEY=your_openai_api_key
+    PORT=your_application_port
+
 
 
 ## License
